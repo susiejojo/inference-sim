@@ -1,0 +1,6 @@
+# Bulk generated artifacts — regenerable from the harness. Not committed;
+# reproduce with `python3 harness/run_suite.py all`.
+specs/
+runs/
+results/
+# Committed: harness/ (scripts), docs/, configs/ (frozen), README.md
